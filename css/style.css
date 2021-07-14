@@ -173,6 +173,7 @@ header:hover .header-img img{
 /* Start Footer Section  */
 footer{
     margin-top: 158px;
+    margin-bottom: 60px;
 }
 .footer-img img{
     width: 483.87px;
